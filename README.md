@@ -1,2 +1,2 @@
 # palm
-a reimagined lifestyle of presentation
+A reimagination of the traditional technology used in electronic presentation
