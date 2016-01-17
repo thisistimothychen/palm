@@ -3485,7 +3485,6 @@ figure:hover figcaption {
   opacity: 1;
 }
 figure:before {
-  content: "?";
   position: absolute;
   font-weight: 800;
   background: black;
