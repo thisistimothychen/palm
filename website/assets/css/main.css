@@ -3412,7 +3412,10 @@
 			#nav {
 				display: none;
 			}
-            
+            #nav ul li:hover a{ 
+                color:#FFF;
+            }
+
 		/* Footer */
 
 			#footer .menu li {
