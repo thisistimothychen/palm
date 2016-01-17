@@ -1,3 +1,13 @@
+/* The Basic funtionality representatiojn of the palm clicker. LEDs represent 
+the activation of each button coresponding to a different function of the clicker.
+There are 6 funtions from the butons of the clicker: Slide forward, Slide backward,
+Zoom in/out, Exit, Power off, Laser on/off. The clicker would be run by a bluetooth 
+enabled microcontroller which would wirelessly connect to the computer and control
+the presentation.
+                                                                    Palm Industries
+                                                                        1/17/16
+*/
+
 int LED1 = 2;
 int LED2 = 3;
 int LED3 = 4;
