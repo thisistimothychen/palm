@@ -1,2 +1,2 @@
-# abalogne
-web based version of the game Avalon
+# clickfit
+a reimagined lifestyle of presentation
