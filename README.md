@@ -1,13 +1,13 @@
 # palm
 "An old dog with new tricks": 
 The reimagination of a traditional technology used in electronic presentation
-<br/>
+<br/><br/>
 Features that set our product apart from the competition<br/>
-1. Simplicity: Elegantly designed, with the comfort and presenter in mind, we haven't just reinvented the wheel, we just reinvented tires.<br/>
-2. Power of Customization: With 5 customizable buttons, you can decide how the presentation will run.<br/>
-3. Comfort: A specially engineered strap relieves the discomfort of those pesky sweaty hand situations and puts you in control of the presentation.<br/>
-4. Battery Life: With a powerful 800 mAh battery, the F-0 can last you an entire month without charging.<br/>
-5. Palm Protect:  provides the life of your coverage for mechanical breakdown and gives you 6 months of protection from accidental damage like drops, spills, and cracks.<br/>
+1. Simplicity: Elegantly designed, with the comfort and presenter in mind, we haven't just reinvented the wheel, we just reinvented tires.
+2. Power of Customization: With 5 customizable buttons, you can decide how the presentation will run.
+3. Comfort: A specially engineered strap relieves the discomfort of those pesky sweaty hand situations and puts you in control of the presentation.
+4. Battery Life: With a powerful 800 mAh battery, the F-0 can last you an entire month without charging.
+5. Palm Protect:  provides the life of your coverage for mechanical breakdown and gives you 6 months of protection from accidental damage like drops, spills, and cracks.
 6. Feedback: Our conprehensive database will analyze the way you present and provide feedback and insight tailored just for you.
 
 Most conventional hardware to use while presenting, keyboard, myo, clickers, are lacking in some aspect. Keyboards will limit your body movements, myo is very inaccurate, and clickers are to straight forward. Our product .... has been designed with the idea of perfecting comfort and useability.
