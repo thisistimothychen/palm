@@ -19,4 +19,5 @@ Most conventional hardware to use while presenting, keyboard, myo, clickers, are
 4. Accurate: The microcontroller that controls the device is set on a delay so that your presentation can seem smooth without mistakes as you get a second chance to decide your actions. No more miss clicks to mess up your flow on stage.
 5. Realtime Feedback: Our device has a pager motor incorporated into the device so that you can get physical cues in your presentation that you can set before. A simple vibration can tell you when you have an important slide coming up next.
 6. Community: We hope to get a open culture with our product with everyone contributing their body language data online. This way you can help to perfect your presentation in the fastest way possible. (talk about the acceleromiter and gyroscope to record your body movemets and compare them to known great presenters)
+<br/>
 In all we had the idea of you presenting your information in the easy and simple yet complex way possible. The F-0 allows you achieve a higher level of control and customizability with just 4 simple buttons.
